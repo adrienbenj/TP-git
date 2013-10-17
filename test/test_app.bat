@@ -1,4 +1,6 @@
-### test_app.bat - 2013 - Carré Adrien ###
-echo "Copyright company - 2013"
-echo "Build : 10:00"
-echo "version 1.2"
+### test_app.bat - 2013 - Carré Adrien 1.2.0-b ###
+version = "1.2.0-b"
+build_hour = "11H00"
+
+echo "Build ${build_hour}"
+echo "version ${version}"
