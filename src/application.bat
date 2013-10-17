@@ -1,4 +1,4 @@
-### application.bat - 2013 - Carré Adrien ###
+### application.bat - 2013 - Carré Adrien - Auffray Antonin ###
 echo "Copyright company - 2013"
 version = "2"
 build_hour = "11H00"
